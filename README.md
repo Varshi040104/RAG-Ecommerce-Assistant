@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/20f6da3d-2024-4b9e-9b63-6fa3e5939c53" />
 # 🛒 ShopKart: Grounded E-Commerce RAG Assistant & Recommender
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1di2yLFqjtjv8zT5pYbGTT4hk8IT3SqHp)
